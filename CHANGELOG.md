@@ -1,5 +1,7 @@
 # Changelog
 
+* (unreleased)
+  * Remove Rails < 5.2 support, add Rails 6 support 
 * 1.0.4
   * Add data-min-length attribute (alias to min-length attribute) for better consistency.
   * Added railsAutocomplete.init trigger
